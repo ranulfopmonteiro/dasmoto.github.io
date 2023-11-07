@@ -1,0 +1,41 @@
+body {
+    font-family: Helvetica;
+    
+}
+header {
+    background-image: url("C:\CodeCademy\Dasmoto\resources\pattern.jpeg");
+}
+
+h1 {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    margin: 10px 0;    
+    padding: 50px;
+    
+}
+.brushes {
+    background-color: mediumspringgreen;
+}
+.frames {
+    background-color: lightcoral;
+}
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+h3 {
+    color: black;
+}
+p {
+    color: darkgrey;
+}
+strong {
+    color: blue;
+    font-weight: bold;    
+}
+.paint {
+    background-color: skyblue;
+}
